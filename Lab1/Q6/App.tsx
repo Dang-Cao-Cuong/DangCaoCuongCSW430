@@ -247,7 +247,6 @@ function App() {
 
   return (
     <ScrollView style={styles.container}>
-
       <EmployeeForm
         fullName={fullName}
         age={age}
